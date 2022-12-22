@@ -10,7 +10,7 @@
             "homepage": "https://www.agenciaemblemente.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
