@@ -1,8 +1,8 @@
 {
     "name": "emblementecarlosgit/emblemente-php-validate",
     "description": "Simples validade de atributos de classes",
-    "type":"library",
     "license": "MIT",
+    "type":"library",
     "authors": [
         {
             "name": "Carlos Eduardo de brito",
@@ -10,10 +10,11 @@
             "homepage": "https://www.agenciaemblemente.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
         }
-    }
+    },
+    "require": {},
+    "minimum-stability": "dev"
 }
