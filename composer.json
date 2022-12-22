@@ -3,7 +3,7 @@
     "description": "Simples validade de atributos de classes",
     "type": "library",
     "license": "GPL-3.0-or-later",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Carlos Eduardo de brito",
