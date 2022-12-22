@@ -1,7 +1,6 @@
 {
     "name": "emblementecarlosgit/emblemente-php-validate",
     "description": "Simples validade de atributos de classes",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -16,5 +15,5 @@
         }
     },
     "require": {},
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
